@@ -1,4 +1,4 @@
-package com.RateLimiter;
+package com.RateLimiter.FixedWindow;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;
